@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Run `npx create-react-app react-ts-api --template typescript`.
+
+# Write API:
+See `App.tsx`.
 
 ## Available Scripts
 
